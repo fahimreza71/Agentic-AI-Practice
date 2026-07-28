@@ -1,3 +1,11 @@
 langgraph
 langchain
 langsmith
+
+python-dotenv
+langchain-groq
+langchain-tavily
+langchain_community
+arxiv
+wikipedia
+Ipython
