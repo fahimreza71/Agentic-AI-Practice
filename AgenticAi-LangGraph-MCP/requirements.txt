@@ -5,7 +5,10 @@ langsmith
 python-dotenv
 langchain-groq
 langchain-tavily
+langchain-mcp-adapters
 langchain_community
+
+mcp
 arxiv
 wikipedia
 Ipython
