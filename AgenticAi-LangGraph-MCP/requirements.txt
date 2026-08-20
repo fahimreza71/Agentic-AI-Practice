@@ -13,14 +13,18 @@ arxiv
 wikipedia
 Ipython
 pymupdf
+pypdf
 transformers
 pillow
 torch
 numpy
 scikit-learn
 faiss-cpu
+sentence_transformers
+chromadb
 
-langchain>=0.3.0
+langchain
+# langchain>=0.3.0
 langchain-core>=0.3.0
 langchain-community>=0.3.0
 langchain-text-splitters>=0.3.0
